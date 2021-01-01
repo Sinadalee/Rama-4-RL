@@ -6,9 +6,9 @@
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
 
     <input>
-        <net-file value="C:\Users\sinad\OneDrive\Documents\ENG 4.1\Sumo\map_grid_lock_add2TL_copy_newTLS.net.xml"/>
-        <route-files value="C:\Users\sinad\OneDrive\Documents\ENG 4.1\Sumo\initial01.rou.xml"/>
-	<additional-files value="C:\Users\sinad\OneDrive\Documents\ENG 4.1\Sumo\initial01.add.xml"/>
+        <net-file value="map_grid_lock_add2TL_copy_newTLS.net.xml"/>
+        <route-files value="initial01.rou.xml"/>
+	<additional-files value="initial01.add.xml"/>
     </input>
 	<time>
 		<begin value = "0"/>
